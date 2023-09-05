@@ -1,0 +1,15 @@
+/Users/macm2/Projects/Question/Question/bin/Debug/net7.0/Question
+/Users/macm2/Projects/Question/Question/bin/Debug/net7.0/Question.deps.json
+/Users/macm2/Projects/Question/Question/bin/Debug/net7.0/Question.runtimeconfig.json
+/Users/macm2/Projects/Question/Question/bin/Debug/net7.0/Question.dll
+/Users/macm2/Projects/Question/Question/bin/Debug/net7.0/Question.pdb
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.csproj.AssemblyReference.cache
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.AssemblyInfoInputs.cache
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.AssemblyInfo.cs
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.csproj.CoreCompileInputs.cache
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.dll
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/refint/Question.dll
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.pdb
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/Question.genruntimeconfig.cache
+/Users/macm2/Projects/Question/Question/obj/Debug/net7.0/ref/Question.dll
